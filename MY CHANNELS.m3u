@@ -87,6 +87,12 @@ http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/gmswf.m3u8
 #EXTINF:0,#EXTINF:-1,ABU_DHABI
 http://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream/gmswf.m3u8?v=2551899164
 
+#EXTINF:0,#EXTINF:-1,KSA SUNNAH
+http://46.245.160.224/medine/medine/gmswf.m3u8?v=2551899168
+
+#EXTINF:0,#EXTINF:-1,QURAN
+http://216.66.42.86:7777/AlQuran.m3u8?user=arash&session=67ff8ae87e57280017e85e30621cb9ca1dccb5fbc6d8a497aa00107545a2adb0a299017ce29bf1aa&v=2551899168
+
 #EXTINF:0,#EXTINF:-1,TOYOR ALJANAH
 http://216.66.42.86:7777/ToyorAlJanah.m3u8?user=arash&session=c0cf7bed51a6f6325e70803886ce0c3515d0752a6a388313a2edcce9f98877c4a299017ce29bf1aa&v=2551899168
 
