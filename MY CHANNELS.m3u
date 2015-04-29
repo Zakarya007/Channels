@@ -23,17 +23,17 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:0,#EXTINF:-1,ALMASIRAH
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 
+#EXTINF:0,#EXTINF:-1,SUHAL
+http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?cid=18648651&id=gmswf
+
 #EXTINF:0,#EXTINF:-1,YEMEN TV
 http://216.66.42.86:7777/Yemen.m3u8?user=arash&session=155de5049a0a53cd465e0c7d5ebf489f005ab7cca9f7966a1d5ccf94cad53c28a299017ce29bf1aa&v=2551899168
 
-#EXTINF:0,#EXTINF:-1,Alsaeeda tv
+#EXTINF:0,#EXTINF:-1,AlSAEEDA tv
 http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?cid=10270300&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=US&geocity=Carthage&userId=&connectionId=sjc-flot-beta03_740535591&ts=1430346526&ip=152.26.230.30&connectionType=&cdn=uhs_akamai&sgn=c773b2758f3db7950a17e1039ce906cc8ac63233
 
 #EXTINF:0,#EXTINF:-1,BBC ARABIC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_400_av-b.m3u8?v=2551899164
-
-#EXTINF:0,#EXTINF:-1,NATIONAL GEOGRAPHIC ARABIC
-http://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream/gmswf.m3u8?v=2551899164
 
 #EXTINF:0,#EXTINF:-1,SKY NEWS ARABIC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/sky_news_arabia/ls_satlink/b_264.m3u8?v=2551899164
@@ -66,11 +66,8 @@ http://151.80.141.145/hls/mbc_3.m3u8
 #EXTINF:0,#EXTINF:-1,MBC 4
 http://63.237.48.8/ios/MBC_4/MBC_4.m3u8?v=2551899164
 
-#EXTINF:0,#EXTINF:-1,SUHAL
-http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?cid=18648651&id=gmswf
-
-#EXTINF:0,#EXTINF:-1,ALSAEEDA
-http://vod49.ustream.tv/0/1/26/26600/26600318/1_10270300_26600318.mp4?e=1429856943&h=f7de3ba52ebe2e2c17af669236493186&tracking=7e6f1c_903_1_0_0&e=1430274650&h=f647e9b4d1c85a4d83237fc4a0036b44&tracking=bbe53a_901_1_0_0
+#EXTINF:0,#EXTINF:-1,NATIONAL GEOGRAPHIC ARABIC
+http://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream/gmswf.m3u8?v=2551899164
 
 #EXTINF:0,#EXTINF:-1,CBS SOFRAH
 https://www.youtube.com/watch?feature=player_embedded&v=oW1Pj-M16vk#t=13
