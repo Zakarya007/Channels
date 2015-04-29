@@ -23,6 +23,12 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:0,#EXTINF:-1,ALMASIRAH
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 
+#EXTINF:0,#EXTINF:-1,YEMEN TV
+http://216.66.42.86:7777/Yemen.m3u8?user=arash&session=155de5049a0a53cd465e0c7d5ebf489f005ab7cca9f7966a1d5ccf94cad53c28a299017ce29bf1aa&v=2551899168
+
+#EXTINF:0,#EXTINF:-1,Alsaeeda tv
+http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?cid=10270300&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=US&geocity=Carthage&userId=&connectionId=sjc-flot-beta03_740535591&ts=1430346526&ip=152.26.230.30&connectionType=&cdn=uhs_akamai&sgn=c773b2758f3db7950a17e1039ce906cc8ac63233
+
 #EXTINF:0,#EXTINF:-1,BBC ARABIC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_400_av-b.m3u8?v=2551899164
 
@@ -49,7 +55,7 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:0,#EXTINF:-1,MBC 1 
-http://198.100.156.87/hls-shift/mbc_1.m3u8?st=-L3fo4WQc1xeciG9N2F4Kw&e=1430278257&v=2551899168
+http://198.100.156.87/hls-shift/mbc_1.m3u8?st=UB8QQgw4hqbCuCkIYCK5QQ&e=1430349831&v=2551899168
 
 #EXTINF:0,#EXTINF:-1,MBC 2
 http://212.179.77.42/live/livestream/gmswf.m3u8?v=2551899166
