@@ -150,7 +150,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
 #EXTINF:0,#EXTINF:-1,Cartoon network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+http://46.245.160.224/medine/medine/gmswf.m3u8?v=2551899168
 
 #EXTINF:0,#EXTINF:-1,Fox 1 (US)
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
