@@ -150,7 +150,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
 #EXTINF:0,#EXTINF:-1,Cartoon network
-http://46.245.160.224/medine/medine/gmswf.m3u8?v=2551899168
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/bw1500000/variant.m3u8?v=2551899168
 
 #EXTINF:0,#EXTINF:-1,Fox 1 (US)
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
