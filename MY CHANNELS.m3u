@@ -23,6 +23,9 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:0,#EXTINF:-1,ALMASIRAH
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 
+#EXTINF:0,#EXTINF:-1,AL ALEME ( IRAN )
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=alalam
+
 #EXTINF:0,#EXTINF:-1,SUHAL
 http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?cid=18648651&id=gmswf
 
@@ -57,9 +60,6 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:0,#EXTINF:-1,MBC 1 
 http://198.100.156.87/hls-shift/mbc_1.m3u8?st=GCwmka41eQTcVQRaC615_A&e=1430624995&
 
-#EXTINF:0,#EXTINF:-1,MBC 1 LINK 2
-http://yoolive.com/hls-shift/mbc_1.m3u8?st=ZF9HHWL1tbA9O4UHh7CDCw&e=1430516545
-
 #EXTINF:0,#EXTINF:-1,MBC 2
 http://212.179.77.42/live/livestream/gmswf.m3u8?v=2551899166
 
@@ -86,9 +86,6 @@ http://162.212.176.107:1935/dubai/globaltv-dubai.stream/gmswf.m3u8?v=2551899164
 
 #EXTINF:0,#EXTINF:-1,SAMA DUBAI (سما دبي)
 http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/gmswf.m3u8?v=2551899164
-
-#EXTINF:0,#EXTINF:-1,Alafasy
-rtmp://$OPT:rtmp-raw=rtmp://stream.alafasy.tv:2101/live/ playpath=alafasy swfUrl=http://www.alafasy.tv/player.swf pageUrl=http://www.alafasy.tv/ swfVfy=true live=true timeout=15
 
 #EXTINF:0,#EXTINF:-1,ABU_DHABI
 http://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream/gmswf.m3u8?v=2551899164
