@@ -33,7 +33,7 @@ http://216.66.42.86:7777/Yemen.m3u8?user=arash&session=e89aeda6ef66e6c1a5e4d6bd1
 http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?cid=10270300&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=US&geocity=Carthage&userId=&connectionId=sjc-flot-beta03_740535591&ts=1430346526&ip=152.26.230.30&connectionType=&cdn=uhs_akamai&sgn=c773b2758f3db7950a17e1039ce906cc8ac63233
 
 #EXTINF:0,#EXTINF:-1,BBC ARABIC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_400_av-b.m3u8?v=2551899164
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=bbc_ar
 
 #EXTINF:0,#EXTINF:-1,SKY NEWS ARABIC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/sky_news_arabia/ls_satlink/b_264.m3u8?v=2551899164
