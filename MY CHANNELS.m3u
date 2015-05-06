@@ -5,6 +5,27 @@
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM 
 
 
+#EXTINF:-1, [COLOR yellow]TEST[/COLOR] 
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM 
+
+#EXTINF:0,#EXTINF:MBC 1
+
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400 Conn=S:OK
+
+#EXTINF:0,#EXTINF:MBC 2
+
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc2 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc2&width=600&height=400 Conn=S:OK
+
+
+#EXTINF:0,#EXTINF:MBC 3
+
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400
+
+#EXTINF:0,#EXTINF:MBC 4
+
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc4 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc4&width=600&height=400
+
+
 #EXTINF:0,#EXTINF:-1,ALJAZEERA DOC
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8?v=2551899164
 
