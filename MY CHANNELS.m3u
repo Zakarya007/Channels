@@ -150,24 +150,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:0,#EXTINF:-1,Cartoon network
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8
 
-#EXTINF:0,#EXTINF:-1,Fox 1 (US)
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
- 
-#EXTINF:0,#EXTINF:-1,FOX MOVIES HD (US)
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-
-
-#EXTINF:0,#EXTINF:-1,Fox Action (US)
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
- 
-#EXTINF:0,#EXTINF:-1,FOX CINEMA (US)
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1, CARTOON NETWORK ( #2 )
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
 #EXTINF:0,#EXTINF:-1,Fox Family (US)
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
 
 #EXTINF:0,#EXTINF:-1,diseny
- 
 http://185.27.237.105:8082/TV0110
  
 #EXTINF:0,#EXTINF:-1, DISNEY CHANNEL
@@ -196,7 +185,3 @@ http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
 
 #EXTINF:0,#EXTINF:-1,ABC NEWS By Soloman
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
-
- 
-
