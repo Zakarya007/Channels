@@ -120,7 +120,7 @@ http://2co1.vp9.tv/chn/bin02/v.m3u8
 #EXTINF:0,#EXTINF:-1,BEIN SPORTS 4 HD
 http://2co1.vp9.tv/chn/bin04/v.m3u8
 
-#EXTINF:-1,[COLOR red]BEIN SPORTS تحت التصليح [/COLOR]
+#EXTINF:-1,[COLOR red]BEIN SPORT تحت التصليح [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM   
 
 #EXTINF:-1,[COLOR red]SPORTS [/COLOR]
