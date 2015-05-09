@@ -107,9 +107,11 @@ http://50.7.69.138:9999/hls/toyor_al_janeh.m3u8?v=2551899168
 #EXTINF:0,#EXTINF:-1,Cartoon Network Arabic
 http://162.212.176.107:1935/cartoon_network/globaltv-cartoon_network.stream/gmswf.m3u8?v=2551899168
 
-#EXTINF:-1,[COLOR red]UNDER Mantaince[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM    
+#EXTINF:-1, [COLOR yellow]SPORT CHANNELS[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM   
 
+#EXTINF:-1,[COLOR red]UNDER Mantaince[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM   
 #EXTINF:0,#EXTINF:-1,BEIN SPORTS 1 HD
 http://2co1.vp9.tv/chn/bin01/v.m3u8
  
@@ -152,15 +154,17 @@ http://185.38.12.20:8088/eurosport/
 #EXTINF:0,#EXTINF:0,#EXTINF:0,Eurosport 2
 http://185.38.12.20:8088/eurosport2/
 
+#EXTINF:-1,[COLOR red]UNDER Mantaince ^^^^^^[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM   
+
 #EXTINF:-1, [COLOR yellow]AMERICA CHANNELS[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM  
-
 
 #EXTINF:0,#EXTINF:-1,Fox Family (US)
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
 
-#EXTINF:0,#EXTINF:-1,CARTOON NETWORK
-http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 
 #EXTINF:0,#EXTINF:-1,HBO HD.
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
