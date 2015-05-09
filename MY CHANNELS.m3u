@@ -43,6 +43,10 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/sky_news_arabia/ls_satlink/b_264
 #EXTINF:0,#EXTINF:-1,RUSSIA TODAY ARABIC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/rt_ar/ls_satlink/b_264.m3u8?v=2551899164
 
+#EXTINF:0,#EXTINF:-1, CNN (SD)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
+
+
 #EXTINF:-1, [COLOR yellow]ARABIC CHANNELS[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM  
   
@@ -156,29 +160,8 @@ http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
 #EXTINF:0,#EXTINF:-1,Fox Family (US)
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
 
-#EXTINF:0,#EXTINF:-1,diseny
-http://185.27.237.105:8082/TV0110
- 
-#EXTINF:0,#EXTINF:-1, DISNEY CHANNEL
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
- 
-#EXTINF:0,#EXTINF:-1, DISNEY XD
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
- 
-#EXTINF:0,#EXTINF:-1, DISNEY JR
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
- 
-#EXTINF:0,#EXTINF:-1, NICK HD
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
- 
-#EXTINF:0,#EXTINF:-1, NICK
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
- 
-#EXTINF:0,#EXTINF:-1, NICK JR
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
- 
-#EXTINF:0,#EXTINF:-1, CARTOON NETWORK
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:0,#EXTINF:-1,CARTOON NETWORK
+http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8
 
 #EXTINF:0,#EXTINF:-1,HBO HD.
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
