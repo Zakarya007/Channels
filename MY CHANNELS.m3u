@@ -151,12 +151,6 @@ http://185.38.12.20:8088/eurosport2/
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM  
 
 
-#EXTINF:0,#EXTINF:-1,Cartoon network
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_CN/variant.m3u8
-
-#EXTINF:0,#EXTINF:-1, CARTOON NETWORK ( #2 )
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
-
 #EXTINF:0,#EXTINF:-1,Fox Family (US)
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
 
