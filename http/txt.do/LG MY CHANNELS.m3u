@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,MBC 1
-http://streamup.global.ssl.fastly.net/app/sami2015s-channel/gmswf.m3u8?user=&session=1623d1c3b67298cb6aff2b4b9b15f64d5fed453a0ed4247c9dbd252eed938b61a299017ce29bf1aa&v=2890554847
+http://85.17.20.70:8088/stream/mbc1001/playlist.m3u8?id=20532&pk=ec7d2408ab6cf59e6e3561ea582028ef1bd953229f422abc4ee88adda3c8ab93&v=2890554847
 
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8?v=2890554847
@@ -18,9 +18,10 @@ http://2890554847@63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,MBC Action 
 http://2890554847@63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1,YEMEN (NOT AVABLIABLE)
+#EXTINF:-1,YEMEN
+http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8?v=2890554847
 
-#EXTINF:-1,SUHAIL  (NOT AVABLIABLE)
+#EXTINF:-1,SUHAIL
 http://sjc-uhls-proxy110.ustream.tv/watch/playlist.m3u8?cid=18648651&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=US&geocity=Raleigh&userId=&connectionId=sjc-flot-live07_699482033&ts=1448680753&ip=172.74.93.223&connectionType=WEBSOCKET&cdn=uhs_akamai&sgn=bd2f5ceca3e8af0899d3360c124c2f3a1987a309
 
 #EXTINF:-1,AL MASERA 
@@ -40,3 +41,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/id/K8XaIiikpAo.11/ita
 
 #EXTINF:0,#EXTINF:-1,YEMEN TODAY
 http://api.new.livestream.com/accounts/13816375/events/4102747/broadcasts/105645446.m3u8?dw=100&hdnea=st=1448681178~exp=1448682978~acl=/i/13816375_4102747_d9afabe0_1@362834/*~hmac=413a2af8509ac85dbc5099ac0764e21cf767b95df9e22ee864014fa5a715568a
+
+#EXTINF:0,#EXTINF:-1,alhadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8?v=2890554847
