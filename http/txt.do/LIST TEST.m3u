@@ -209,3 +209,39 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/512.m3u8
 
 #EXTINF:-1 ,MNC Music
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/512.m3u8
+
+#EXTINF:-1,YEMEN
+http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8?v=2890554847
+
+#EXTINF:-1,SUHAIL
+http://sjc-uhls-proxy110.ustream.tv/watch/playlist.m3u8?cid=18648651&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=US&geocity=Raleigh&userId=&connectionId=sjc-flot-live07_699482033&ts=1448680753&ip=172.74.93.223&connectionType=WEBSOCKET&cdn=uhs_akamai&sgn=bd2f5ceca3e8af0899d3360c124c2f3a1987a309
+
+#EXTINF:-1,AL MASERA 
+http://livestreaming4.itworkscdn.com/masira/livetv1/gmswf.m3u8?v=2890554847
+
+#EXTINF:-1,#EXTINF:-1,ALJAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8?v=2551899164
+
+#EXTINF:0,#EXTINF:-1,ALJAZEERA MUBASHER MISR
+http://aljazeera-mubasher-misr-apple-live.adaptive.level3.net/apple/aljazeera/mub-misr/160.m3u8?v=2551899164
+
+#EXTINF:0,#EXTINF:-1,ALJAZEERA KIDS
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?&v=hghpl]
+
+#EXTINF:0,#EXTINF:-1,YEMEN TODAY
+http://api.new.livestream.com/accounts/13816375/events/4102747/broadcasts/105645446.m3u8?dw=100&hdnea=st=1448681178~exp=1448682978~acl=/i/13816375_4102747_d9afabe0_1@362834/*~hmac=413a2af8509ac85dbc5099ac0764e21cf767b95df9e22ee864014fa5a715568a
+
+#EXTINF:0,#EXTINF:-1,alhadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8?v=2890554847
+
+#EXTINF:0,#EXTINF:-1,CBC SOFRA
+https://manifest.googlevideo.com/api/manifest/hls_playlist/id/K8XaIiikpAo.11/itag/92/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/SzhYYUlpaWtwQW8uMTE.92/hls_chunk_host/r16---sn-p5qlsns7.googlevideo.com/playlist_type/LIVE/gcr/us/pmbypass/yes/mm/32/mn/sn-p5qlsns7/ms/lv/mv/m/nh/IgpwcjAxLmlhZDI2KgkxMjcuMC4wLjE/pl/32/dover/3/sver/3/keepalive/yes/upn/FoKSWWlXdSs/fexp/9406852,9407118,9407535,9407706,9408710,9412914,9413209,9415863,9416126,9417683,9418204,9419452,9419837,9420452,9422299,9422363,9422596,9422618,9423662,9423956,9424299,9424966,9425307/mt/1448924646/ip/2606:a000:be80:f500:4d98:e6b2:6d3d:3fd3/ipbits/0/expire/1448946284/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,playlist_type,gcr,pmbypass,mm,mn,ms,mv,nh,pl/signature/2D090EFC7A3E9B8CEAAC408A87F917D5A502091D.9495D2B5A0E1C57F74F4F070B33FE8B0A92ABD1A/key/dg_yt0/playlist/index.m3u8
+
+#EXTINF:0,#EXTINF:-1,Dubi One 
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8?v=2890554847
+
+#EXTINF:0,#EXTINF:-1,sunna nabawiya
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
+
+#EXTINF:0,#EXTINF:-1,Quran TV
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=qurantv
