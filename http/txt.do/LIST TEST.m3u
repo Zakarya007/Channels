@@ -1,4 +1,5 @@
-http://iptv-zak.blogspot.com
+#EXTM3U
+
 #EXTINF:0,BBC WORLD NEWS
 http://origin2.live.web.tv.streamprovider.net/streams/61fbfc6d840110226aa9127d5edfc2bb/index.m3u8
 #EXTINF:0,HBO Plus
