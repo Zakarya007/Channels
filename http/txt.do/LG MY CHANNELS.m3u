@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,MBC 1
-http://streamup.global.ssl.fastly.net/app/sami2015s-channel/gmswf.m3u8?user=&session=d068d1a352c0911dfe5e4b67ef59a712016c3e1fe8efdbd26a2d2945ce92c01b&v=2890554847
+http://85.17.20.72:8088/stream/mbc1001/playlist.m3u8?id=83955&pk=ec7d2408ab6cf59e6e3561ea582028ef1bd953229f422abc4ee88adda3c8ab93&v=2890554847
 
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8?v=2890554847
