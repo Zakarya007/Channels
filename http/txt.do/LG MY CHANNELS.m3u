@@ -45,7 +45,7 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:0,#EXTINF:-1,CBC SOFRA
 https://manifest.googlevideo.com/api/manifest/hls_playlist/id/K8XaIiikpAo.11/itag/92/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/SzhYYUlpaWtwQW8uMTE.92/hls_chunk_host/r16---sn-p5qlsns7.googlevideo.com/playlist_type/LIVE/gcr/us/pmbypass/yes/mm/32/mn/sn-p5qlsns7/ms/lv/mv/m/nh/IgpwcjAxLmlhZDI2KgkxMjcuMC4wLjE/pl/32/dover/3/sver/3/keepalive/yes/upn/FoKSWWlXdSs/fexp/9406852,9407118,9407535,9407706,9408710,9412914,9413209,9415863,9416126,9417683,9418204,9419452,9419837,9420452,9422299,9422363,9422596,9422618,9423662,9423956,9424299,9424966,9425307/mt/1448924646/ip/2606:a000:be80:f500:4d98:e6b2:6d3d:3fd3/ipbits/0/expire/1448946284/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,playlist_type,gcr,pmbypass,mm,mn,ms,mv,nh,pl/signature/2D090EFC7A3E9B8CEAAC408A87F917D5A502091D.9495D2B5A0E1C57F74F4F070B33FE8B0A92ABD1A/key/dg_yt0/playlist/index.m3u8
 
-#EXTINF:0,#EXTINF:-1,Dubi One 
+#EXTINF:0,#EXTINF:-1,Dubai One (دبي ون)
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8?v=2890554847
 
 #EXTINF:0,#EXTINF:-1,Sunna Nabawiya (قناة السنة النبوية)
