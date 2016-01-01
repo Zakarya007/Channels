@@ -58,9 +58,8 @@ http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
 #EXTINF:0,#EXTINF:-1,Quran TV
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=qurantv
 
-
-#EXTINF:0,#EXTINF:-1,
-
+#EXTINF:0,#EXTINF:-1,My Fox 8
+http://player-api.new.livestream.com/accounts/9287016/events/3206504/broadcasts/108166095.m3u8?dw=100&hdnea=st=1451621511~exp=1451623311~acl=/i/9287016_3206504_2113a09e_1@48620/*~hmac=7f0a1586eaeca5ca796e0e53a6c43ebe2567bc12ec871e7b0f9f0a9125de9cb2
 
 
 #EXTINF:0,#EXTINF:-1,
