@@ -1,360 +1,95 @@
 #EXTM3U
- 
 
-#EXTINF:-1,US: USA NetWork
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2677.m3u8
-#EXTINF:-1,US: TSN Sports 5
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2678.m3u8
-#EXTINF:-1,US: TSN Sports 4
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2679.m3u8
-#EXTINF:-1,US: TSN Sports 3
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2680.m3u8
-#EXTINF:-1,US: TSN Sports 2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2681.m3u8
-#EXTINF:-1,US: TSN Sports 1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2682.m3u8
-#EXTINF:-1,US: Ten Sport
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2665.m3u8
-#EXTINF:-1,US: Qvc Style
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2672.m3u8
-#EXTINF:-1,US: Qvc Beauty
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2673.m3u8
-#EXTINF:-1,US: NBC HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2675.m3u8
-#EXTINF:-1,US: NBA TV
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2666.m3u8
+#EXTINF:0,AL Arabia 
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8?v=1096642953 
 
-#EXTINF:-1,US: Eden
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2674.m3u8
-#EXTINF:-1,US: Big Ten Sports
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2676.m3u8
+#EXTINF:-1,alarabiya alhadath http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
+#EXTINF:0,ALJazeera AR
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
 
-#EXTINF:-1,Samiratv
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/134.m3u8
-#EXTINF:-1,SamaTV
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/79.m3u8
-#EXTINF:-1,Sama-Dubai
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/74.m3u8
-#EXTINF:-1,SADAALBALADDRAMA
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/129.m3u8
-#EXTINF:-1,Russia Alyaum
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/126.m3u8
-#EXTINF:-1,rudawHD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/31.m3u8
+#EXTINF:-1,aljazeera_mubasher
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
 
-#EXTINF:-1,Rotana Music
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/54.m3u8
-#EXTINF:-1,Rotana Masria
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/55.m3u8
-#EXTINF:-1,Rotana Khaligi
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/53.m3u8
-#EXTINF:-1,Rotana Clip
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/52.m3u8
-#EXTINF:-1,Rotana Classic
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/56.m3u8
-#EXTINF:-1,Rotana Cinema
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/57.m3u8
-#EXTINF:-1,rotana
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/102.m3u8
-#EXTINF:-1,ronahiTV
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/32.m3u8
+#EXTINF:-1,Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1,OTV Lebanon
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/100.m3u8
+#EXTINF:16,Dubai_1
+rtmp://dmi.mangomolo.com:1935/dubaitv/?v=1511244125/ playpath=dubaitv swfUrl=http://www.centraltv.fr/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.centraltv.fr/emirats-arabes-unis/dubai-tv
 
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2640.m3u8
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2641.m3u8
-#EXTINF:-1,IT: Sky Sport 24 HD BackUP
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2631.m3u8
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2642.m3u8
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2643.m3u8
-#EXTINF:-1,IT: Sky Sport 1 HD
+#EXTINF:-1 group-title=â€ARABICâ€,DUBAI ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 
-#EXTINF:-1,COMEDIE  HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2462.m3u8
+#EXTINF:17,Dubai_Drama
+rtmp://dmi.mangomolo.com/dubaidrama/?v=1548648495/ playpath=dubaidrama.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.20sat.com/new/dubai_drama_on.htm
 
-#EXTINF:-1,CANAL  SPORT HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2448.m3u8
-#EXTINF:-1,CANAL  SERIES
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2449.m3u8
-#EXTINF:-1,CANAL  HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2444.m3u8
-#EXTINF:-1,CANAL  FAMILY HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2446.m3u8
-#EXTINF:-1,CANAL  DECALE HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2447.m3u8
-#EXTINF:-1,CANAL  CINEMA HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2445.m3u8
+#EXTINF:17,Sama_Dubai
+rtmp://dmi.mangomolo.com:1935/samadubai/_definst_/ playpath=samadubai swfUrl=http://www.elahmad.com/tv/swf/samadubai.swf?autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/samadubai.htm
 
-#EXTINF:-1,ACTION HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2460.m3u8
-#EXTINF:-1,SudanTV
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/121.m3u8
+#EXTINF:-1,Sana'a
+http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8?v=2890554847
 
-#EXTINF:-1,Spacetoon
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/150.m3u8
-#EXTINF:-1,Skynews
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/89.m3u8
-#EXTINF:-1,Tunisna TV
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/66.m3u8
-#EXTINF:-1,Tunisie NAT 2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/64.m3u8
-#EXTINF:-1,Tunisie NAT 1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/63.m3u8
-#EXTINF:-1,TT1Tunisie
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/103.m3u8
-#EXTINF:-1,Toyor Al Janah
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/151.m3u8
-#EXTINF:-1,TNNTunisia
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/105.m3u8
-#EXTINF:-1,telvza_tv
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/156.m3u8
-#EXTINF:-1,SyrianDrama
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/71.m3u8
-#EXTINF:-1,syria-talaqie
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/175.m3u8
-#EXTINF:-1,syria
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/75.m3u8
-#EXTINF:-1,ZEE-Aflam
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/68.m3u8
-#EXTINF:-1,Zee Alwen
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/67.m3u8
-#EXTINF:-1,ZaitounaTV
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/110.m3u8
-#EXTINF:-1,Zaitouna
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/131.m3u8
-#EXTINF:-1,ONTVmasr
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/119.m3u8
-#EXTINF:-1,Nile Drama
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/143.m3u8
-#EXTINF:-1,Nile Comedy
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/142.m3u8
-#EXTINF:-1,Nile cinema
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/144.m3u8
-#EXTINF:-1,Nessma Hamra
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/130.m3u8
-#EXTINF:-1,NBN
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/78.m3u8
-#EXTINF:-1,Nat Geo AD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/108.m3u8
-#EXTINF:-1,Nahar
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/147.m3u8
-#EXTINF:-1,MTV-LEBANO
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/80.m3u8
-#EXTINF:-1,Mehwer 1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/109.m3u8
-#EXTINF:-1,Medi1Sat
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/135.m3u8
-#EXTINF:-1,MBCProSports3
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/293.m3u8
-#EXTINF:-1,MBCProSports2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/50.m3u8
-#EXTINF:-1,MBCProSports1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/49.m3u8
-#EXTINF:-1,MBC.BOLLYWOOD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/111.m3u8
-#EXTINF:-1,MBC-MAX
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/48.m3u8
-#EXTINF:-1,MBC-DRAMA
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/43.m3u8
-#EXTINF:-1,MBC-ACTION
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/44.m3u8
-#EXTINF:-1,MBC-4
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/47.m3u8
-#EXTINF:-1,MBC-3
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/46.m3u8
-#EXTINF:-1,MBC-2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/45.m3u8
-#EXTINF:-1,MBC-1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/42.m3u8
-#EXTINF:-1,MBC Masr
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/101.m3u8
-#EXTINF:-1,LDC Lebanon
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/76.m3u8
-#EXTINF:-1,LCDAflam
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/82.m3u8
-#EXTINF:-1,LBC
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/88.m3u8
+#EXTINF:-1,Suhail tv - قناة سهيل
+http://sjc-uhls-proxy110.ustream.tv/watch/playlist.m3u8?cid=18648651&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=US&geocity=Raleigh&userId=&connectionId=sjc-flot-live07_699482033&ts=1448680753&ip=172.74.93.223&connectionType=WEBSOCKET&cdn=uhs_akamai&sgn=bd2f5ceca3e8af0899d3360c124c2f3a1987a309
 
-#EXTINF:-1,iFilm_Arabic
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/116.m3u8
-#EXTINF:-1,Hayat Series
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/83.m3u8
-#EXTINF:-1,hanibal
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/132.m3u8
-#EXTINF:-1,Haneen Music
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/250.m3u8
+#EXTINF:-1,AL MASERA (المسيره)
+http://livestreaming4.itworkscdn.com/masira/livetv1/gmswf.m3u8?v=2890554847
 
-#EXTINF:-1,france24_arabic
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/125.m3u8
+#EXTINF:-1,#EXTINF:-1,ALJAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8?v=2551899164
 
-#EXTINF:-1,Fox Movies
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/87.m3u8
-#EXTINF:-1,fox
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/93.m3u8
+#EXTINF:0,#EXTINF:-1,ALJAZEERA MUBASHER MISR
+http://aljazeera-mubasher-misr-apple-live.adaptive.level3.net/apple/aljazeera/mub-misr/160.m3u8?v=2551899164
 
-#EXTINF:-1,Dubai Sport Bundesliega HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/122.m3u8
-#EXTINF:-1,DUBAI
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/73.m3u8
-#EXTINF:-1,Dream 1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/85.m3u8
+#EXTINF:0,#EXTINF:-1,ALJAZEERA KIDS
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?&v=hghpl]
 
-#EXTINF:-1,Cima
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/145.m3u8
-#EXTINF:-1,CBC TV
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/84.m3u8
-#EXTINF:-1,CBC Sofra
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/136.m3u8
-#EXTINF:-1,CBC Extra
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/106.m3u8
-#EXTINF:-1,Cbc drama
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/137.m3u8
-#EXTINF:-1,CBC 2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/107.m3u8
-#EXTINF:-1,Cartoon Network AR
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/95.m3u8
-#EXTINF:-1,Cairo drama
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/148.m3u8
-#EXTINF:-1,Cairo Cinema
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/149.m3u8
-#EXTINF:-1,bbc_arabic
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/124.m3u8
-#EXTINF:-1,Baraem
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/152.m3u8
-#EXTINF:-1,ART-CINEMA
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/58.m3u8
-#EXTINF:-1,ART-AFLAM2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/60.m3u8
-#EXTINF:-1,ART-AFLAM1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/59.m3u8
-#EXTINF:-1,ART Hikayat 2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/62.m3u8
-#EXTINF:-1,ART Hikayat 1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/61.m3u8
-#EXTINF:-1,Arabicq
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/114.m3u8
-#EXTINF:-1,al_masriyah
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/247.m3u8
-#EXTINF:-1,al_janoubiya
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/120.m3u8
-#EXTINF:-1,AlMoutawasetTV
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/90.m3u8
-#EXTINF:-1,AljazeeraDoc
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/118.m3u8
-#EXTINF:-1,aljazeera
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/112.m3u8
-#EXTINF:-1,ALJADEED
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/99.m3u8
-#EXTINF:-1,Alhayat1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/139.m3u8
-#EXTINF:-1,Alhayat cinema
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/138.m3u8
-#EXTINF:-1,AlHayat
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/97.m3u8
-#EXTINF:-1,AlHaneenMusic
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/115.m3u8
-#EXTINF:-1,alarabiya
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/128.m3u8
-#EXTINF:-1,AL-MANAR
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/81.m3u8
-#EXTINF:-1,AL tunisia
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/133.m3u8
-#EXTINF:-1,Al Resalah
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/158.m3u8
-#EXTINF:-1,Al Oula Maroc
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/96.m3u8
-#EXTINF:-1,Al nahar drama
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/146.m3u8
-#EXTINF:-1,AL MAYADEEN
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/113.m3u8
-#EXTINF:-1,Al Ikhbaria
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/117.m3u8
-#EXTINF:-1,Al Hiwar Ettounsi
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/72.m3u8
-#EXTINF:-1,Al Hayte 2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/140.m3u8
-#EXTINF:-1,Al Hayat Cinema
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/98.m3u8
-#EXTINF:-1,Al Arabia Hadath
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/154.m3u8
-#EXTINF:-1,ABU-DHABI-SPORT1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/77.m3u8
-#EXTINF:-1,ABU-DHABI-1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/70.m3u8
-#EXTINF:-1,Abu Dhabi Emarat
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/251.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/94.m3u8
-#EXTINF:-1,2MMaroc
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/176.m3u8
-#EXTINF:-1,1 KANAL
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/488.m3u8
+#EXTINF:0,#EXTINF:-1,YEMEN TODAY
+http://api.new.livestream.com/accounts/13816375/events/4102747/broadcasts/105645446.m3u8?dw=100&hdnea=st=1448681178~exp=1448682978~acl=/i/13816375_4102747_d9afabe0_1@362834/*~hmac=413a2af8509ac85dbc5099ac0764e21cf767b95df9e22ee864014fa5a715568a
 
-#EXTINF:-1,UK: Nicktoons HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2319.m3u8
-#EXTINF:-1,UK: Nickelodeon HD
+#EXTINF:0,#EXTINF:-1,Quran TV
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=qurantv
+#EXTINF:18,NOOR DUBAI
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
 
-#EXTINF:-1,UK: ESPN HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2310.m3u8
-#EXTINF:-1,UK: Disney Junior HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2324.m3u8
-#EXTINF:-1,UK: Discovery History HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2325.m3u8
-#EXTINF:-1,UK: Discovery HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2326.m3u8
+#EXTINF:18,Dubai_Zaman
+rtmp://dmi.mangomolo.com:1935/dubaizaman/?v=1499330773 playpath=dubaizaman.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=dubaizaman&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/dubaizaman.php
 
-#EXTINF:-1,UK: BBC 4 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2280.m3u8
-#EXTINF:-1,UK: BBC 3 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2279.m3u8
-#EXTINF:-1,UK: BBC 2 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2278.m3u8
-#EXTINF:-1,UK: BBC 1 HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2277.m3u8
+#EXTINF:-1,Dubai Sport 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,alriyadiamaroc
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/181.m3u8
-#EXTINF:-1,CanalCinema
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/203.m3u8
-#EXTINF:-1,Al_Thania
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/287.m3u8
-#EXTINF:-1,Dubai One
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/104.m3u8
-#EXTINF:-1,melody_classic
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/288.m3u8
-#EXTINF:-1,Al_Oula_Masria
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/261.m3u8
-#EXTINF:-1,MBCMasr2
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/39.m3u8
-#EXTINF:-1,roya
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/253.m3u8
-#EXTINF:-1,NationalGeoFRHD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/214.m3u8
-#EXTINF:-1,Nile News
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/159.m3u8
-#EXTINF:-1,Algeria3
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/249.m3u8
-#EXTINF:-1,planetc
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/244.m3u8
-#EXTINF:-1,planetm
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/254.m3u8
-#EXTINF:-1,planetp
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/245.m3u8
-#EXTINF:-1,planett
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/248.m3u8
-#EXTINF:-1,SkyEmotion
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/211.m3u8
-#EXTINF:-1,AljazeeraJeemTv
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/246.m3u8
-#EXTINF:-1,showturktv
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/236.m3u8
+#EXTINF:-1 group-title=â€ARABICâ€,DUBAI SPORTS
+http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
 
-#EXTINF:-1,wesal
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/252.m3u8
+#EXTINF:-1,Rotana_cenima
+http://213.200.110.81/live/2615.high.stream/1451513251932.ts
 
+#EXTINF:-1,Rotana_aflam
+http://213.200.110.81/live/2618.high.stream/playlist.m3u8?
+
+#EXTINF:-1,MBC_1
+rtmp://web4.iptv-planet.com/live playpath=Hi_mbc1?cle=084117101032068101099032050057032048051032049053 swfUrl=http://embed.iptv-planet.com/swfs/player.swf live=1 pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
+
+#EXTINF:-1,MBC_2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,MBC_3
+http://arabic.dynns.com:8081/arabic/MBC3/chunks.m3u8
+
+#EXTINF:-1,MBC_4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+
+#EXTINF:-1,MBC_Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:-1,MBC_Drama
+http://streamup.global.ssl.fastly.net/app/sami2016s-channel/chunklist.m3u8
+
+#EXTINF:-1,MBC_misr
+http://178.33.88.129:888/udp/239.102.0.45:1234
+
+#EXTINF:-1,MBC_Bollwood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:-1,MBC_Max
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
